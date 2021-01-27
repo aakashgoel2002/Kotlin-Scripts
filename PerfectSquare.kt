@@ -4,11 +4,11 @@ fun main(args: Array<String>){
     val inp=Scanner(System.`in`)
     print("Enter the Number to be checked: ")
     var number:Double=inp.nextDouble()
-    print("$number")
+    print("$number ")
     number=sqrt(number)
     var i:Double=floor(number)
     if(i==number)
-    println(" is Perfect Square")
+    println("is Perfect Square")
     else
-    println(" is not Perfect Square")
+    println("is not Perfect Square")
     }
