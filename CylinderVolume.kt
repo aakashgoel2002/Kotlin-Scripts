@@ -1,8 +1,7 @@
-
 import java.util.Scanner
 fun main(args: Array<String>) {
     val inp=Scanner(System.`in`)
-    print("Enter the radius: ")
+    print("Enter the Radius: ")
     var radius:Double=inp.nextDouble()
     print("Enter the height: ")
     var height:Double=inp.nextDouble()
