@@ -11,5 +11,5 @@ fun main(args: Array<String>){
     no/=10
     rev=rev*10+n
     }
-    println("Reverse of $number is $rev")
+    println("Reverse of $number: $rev")
 }
