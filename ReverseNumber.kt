@@ -1,7 +1,7 @@
 import java.util.Scanner
 fun main(args: Array<String>){
     val inp=Scanner(System.`in`)
-    print("Enter a Number with Multiple Digits")
+    print("Enter a Number with Multiple Digits: ")
     val number:Int=inp.nextInt()
     var no=number
     var n=0
